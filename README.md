@@ -4,7 +4,7 @@
 ## Author
 * Anna Adhiambo
 ## How to access my website
-You can clone the [Repository]() and open the terminal and do the following instruction
+You can clone the [Repository](https://github.com/annaadhiambo/Ghana-Acan-Names.git) and open the terminal and do the following instruction
 ```
 $ git clone link
 $ cd directory-name
