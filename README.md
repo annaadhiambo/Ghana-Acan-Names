@@ -10,3 +10,7 @@ $ git clone link
 $ cd directory-name
 $ code .
 ```
+##  Support and contact details
+* Name:Anna Adhiambo
+* Contact:0758579812
+* Email:annaadhiambo@gmail.com
