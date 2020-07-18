@@ -14,3 +14,8 @@ $ code .
 * Name:Anna Adhiambo
 * Contact:0758579812
 * Email:annaadhiambo@gmail.com
+## Technology Uesd
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
