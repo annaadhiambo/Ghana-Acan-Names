@@ -10,6 +10,8 @@ $ git clone link
 $ cd directory-name
 $ code .
 ```
+## BDD
+* This explains how people in Ghana can be adle to access their names and are able to get what they have requested for.
 ##  Support and contact details
 * Name:Anna Adhiambo
 * Contact:0758579812
