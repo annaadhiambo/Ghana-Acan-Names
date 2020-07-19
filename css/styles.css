@@ -2,3 +2,6 @@ body{
     padding: 0;
     margin: 0;
 }
+.landing-page{
+    background-image: url(../images/ghana\ flag.jpg);
+}
