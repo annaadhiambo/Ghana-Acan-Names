@@ -17,8 +17,8 @@
             </div>
         </div>
         <div>
-            <h2>Ghanian Pepole</h2>
-            <p>Get to know your date when you were  born</p>
+            <h2 class="text-center">Ghanian Cultuer</h2>
+            <p class="text-white text-center">Get to know your date when you were  born</p>
         </div>
         <div class="row mt-5">
             <div class="col-md-6">
@@ -26,12 +26,12 @@
                     <div class="col-md-6">
                         <div class="male">
                             <h3>Male</h3>
-                            <ul>
+                            <ul class="text-white">
                                 <li>Sunday: Kwasi</li>
                                 <li>Monday: Kwadwo</li>
                                 <li>Tuesday: Kwabena</li>
                                 <li> Wednesday: Kwaku</li>
-                                <li>Thursday:  Yaw</li>
+                                <li>Thursday:  Yaw</li7>
                                 <li>Friday: Kofi</li>
                                 <li>Saturday: Kwame</li>
                             </ul>
@@ -40,7 +40,7 @@
                     <div class="col-md-6">
                         <div class="female">
                             <h3>Female</h3>
-                            <ul>
+                            <ul class="text-white">
                                 <li>Sunday: Akosua</li>
                                 <li>Monday: Adwoa</li>
                                 <li>Tuesday: Abenaa</li>
@@ -57,16 +57,15 @@
                 <section class="form list">
                     <form>
                         <h1>Generator</h1>
-                        <p>A web application that takes a user's birthday <br>
+                        <p class="text-white">A web application that takes a user's birthday <br>
                             and calculates the day of the week they were born and <br>
                             then depending on their gender outputs their Akan Name. </p>
-                        <label for="date">Select date</label><br>
-                        <input type="date" name="date" id="date"><br>
-                        <label for="Gender">Gender</label><br>
-                        <select id="gender">
+                        <label class="text-white" for="date">Select date</label><br>
+                        <input class="form-control w-75" type="date" name="date" id="date"><br>
+                        <label class="text-white" for="Gender">Gender</label><br>
+                        <select class="form-control w-75" id="gender">
                             <option value="male">Male</option>
                             <option value="female">Female</option>
-                
                         </select>
                     </form>
                 </section>
@@ -74,12 +73,10 @@
         </div>
         <div class="container">
             <div class="col-md-12 text-center mt-5">
-                <button type="submit" class="btn btn-info"onsubmit="AkanNames()">Submit</button>
+                <button type="submit" class="btn btn-info" onclick="nameCalculator()">Submit</button>
             </div>
         </div>
     </div>
-    
-    
     
     <script src="js/scripts.js"></script>
 </body>
